@@ -38,36 +38,49 @@ b.  KCL:
 5.   Set the input voltage to a value between 0V to 30V.
 6.   Record the voltage values shown in the ammeter connected to each resistor.
 7.   Take readings for different values of input voltage and tabulate them. 
-CIRCUIT DIAGRAM:
-
-CIRCUIT DIAGRAM:
+CIRCUIT DIAGRAM:<img width="922" height="486" alt="Screenshot 2025-10-19 205339" src="https://github.com/user-attachments/assets/3976376b-d444-4064-8e06-94b053cd0c85" />
 
 
-a.   KVL:
+CIRCUIT DIAGRAM:<img width="805" height="627" alt="Screenshot 2025-10-19 205140" src="https://github.com/user-attachments/assets/292abef4-2837-481b-a53e-e4b4c6e14ad8" />
+
+
+
+a.   KVL:<img width="922" height="486" alt="Screenshot 2025-10-19 205339" src="https://github.com/user-attachments/assets/58818314-8c68-4d47-a5c3-a71e8dd64e26" />
+
  
 
 
-b.  KCL:
+b.  KCL:<img width="805" height="627" alt="Screenshot 2025-10-19 205140" src="https://github.com/user-attachments/assets/c4b1ad8b-9061-4fe6-838e-8792826d7e43" />
+
  
 
 Calculation:
 
-a.   KVL:
+a.   KVL:<img width="737" height="503" alt="Screenshot 2025-10-19 205452" src="https://github.com/user-attachments/assets/2af68e8f-c74c-4bed-ace8-a6063e886118" />
+<img width="698" height="367" alt="Screenshot 2025-10-19 205501" src="https://github.com/user-attachments/assets/e2aadf57-2c8b-49e6-a9f6-73d02bf1810d" />
+
+
  
 
 
-b.  KCL:
+b.  KCL:<img width="785" height="608" alt="Screenshot 2025-10-19 205607" src="https://github.com/user-attachments/assets/d09af87a-2cd0-48dc-8f78-0e250a8e12be" />
+<img width="771" height="456" alt="Screenshot 2025-10-19 205615" src="https://github.com/user-attachments/assets/ce1ad977-eff8-45f2-af65-9c7dd6ff0891" />
+
+
+
 
 
 
 
 Tabulation:
 
-a.   KVL:
+a.   KVL:<img width="806" height="422" alt="Screenshot 2025-10-19 205653" src="https://github.com/user-attachments/assets/74cdf895-7cdf-4898-a549-502c74a3d949" />
+
  
 
 
-b.  KCL:
+b.  KCL:<img width="810" height="366" alt="Screenshot 2025-10-19 205701" src="https://github.com/user-attachments/assets/2924dc62-0b40-4035-ad6e-90a0777d9d4f" />
+
 
 
 
